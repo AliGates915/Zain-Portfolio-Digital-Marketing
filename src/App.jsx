@@ -2,7 +2,7 @@ import { useState } from 'react'
 
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
-import Services from './components/Services'
+// import Services from './components/Services'
 import About from './components/About'
 // import Portfolio from './components/Portfolio'
 // import Contact from './components/Contact'
@@ -18,7 +18,7 @@ function App() {
     <div className='container px-6 sm:px-20  mx-auto'>
       <Navbar/>
       <Hero/>
-      <Services/>
+      {/* <Services/> */}
       <About/>
       <Work />
       <Testimonial />
