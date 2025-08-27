@@ -8,6 +8,7 @@ import About from './components/About'
 // import Contact from './components/Contact'
 import Work from './components/Work'
 import Testimonial from "./components/Testimonial";
+import WhatsAppButton from './components/WhatsAppButton'
 
 // import Footer from './components/Footer'
 
@@ -22,6 +23,7 @@ function App() {
       <About/>
       <Work />
       <Testimonial />
+      <WhatsAppButton />
       {/* <Portfolio/> */}
       {/* <Contact/> */}  
     </div>
