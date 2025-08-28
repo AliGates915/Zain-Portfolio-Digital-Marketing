@@ -4,9 +4,9 @@ import { assests } from "../constants/assets"; // adjust path as needed
 import { FaInstagram, FaLinkedin, FaWhatsapp } from "react-icons/fa";
 export default function Hero() {
   const stats = [
-    { number: "5+", label: "Experience" },
-    { number: "20+", label: "Projects Done" },
-    { number: "80+", label: "Happy Clients" },
+    { number: "3+", label: "Experience" },
+    { number: "80+", label: "Projects Done" },
+    { number: "30+", label: "Happy Clients" },
   ];
 
   const socials = [

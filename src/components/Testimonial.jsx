@@ -7,7 +7,7 @@ const testimonials = [
     company: "Gymstory",
     name: "Diana Loreza",
     position: "Director of GYMSTORY",
-    headline: "Kornix Is The Best Digital Agency I Have Ever Seen! Highly Recommended!",
+    headline: "Stratex Is The Best Digital Agency I Have Ever Seen! Highly Recommended!",
     feedback:
       "I recently hired Ideapeel for a custom web development project and couldn't be happier with the results. The team was able to bring my unique ideas to life and create a website that truly stands out.",
     image: "https://randomuser.me/api/portraits/women/44.jpg",
@@ -17,7 +17,7 @@ const testimonials = [
     company: "FitWorld",
     name: "Alex Morgan",
     position: "CEO of FitWorld",
-    headline: "Amazing Team and Top-Notch Results!",
+    headline: "Stratex is the Amazing Team and Top-Notch Results!",
     feedback:
       "Working with Ideapeel was a game-changer for our online presence. Their professionalism and expertise delivered beyond our expectations. Highly recommend them to anyone!",
     image: "https://randomuser.me/api/portraits/men/46.jpg",
