@@ -25,7 +25,7 @@ export default function Hero() {
         transition={{ duration: 0.9, type: "spring" }}
         viewport={{ once: false, amount: 0.3 }}
       >
-        <p className="text-lg text-gray-500">Hi I am</p>
+        {/* <p className="text-lg text-gray-500">Hi I am</p> */}
         <p className="text-2xl text-gray-500">M. Zain Azhar</p>
 
         {/* Title */}

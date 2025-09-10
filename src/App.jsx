@@ -9,6 +9,7 @@ import About from './components/About'
 import Work from './components/Work'
 import Testimonial from "./components/Testimonial";
 import WhatsAppButton from './components/WhatsAppButton'
+import Works from './components/Project'
 
 // import Footer from './components/Footer'
 
@@ -22,6 +23,7 @@ function App() {
       {/* <Services/> */}
       <About/>
       <Work />
+      <Works />
       <Testimonial />
       <WhatsAppButton />
       {/* <Portfolio/> */}
