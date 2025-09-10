@@ -99,8 +99,8 @@ export default function Hero() {
         <motion.div whileHover={{ y: -14 }}>
           <img
             className="w-52 sm:w-72"
-            src={assests.man}
-            alt="Hero"
+            // src={assests.man}
+            alt="Gandu"
           />
         </motion.div>
       </motion.div>
