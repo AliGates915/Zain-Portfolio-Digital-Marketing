@@ -94,7 +94,7 @@ export default function Hero() {
         whileInView={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.8, type: "spring" }}
         viewport={{ once: false, amount: 0.3 }}
-        className="h-[450px] w-[350px] sm:h-[430px] sm:w-[400px] rounded-full bg-[#1e1e1e] flex justify-center items-center mt-10 lg:mt-0"
+        // className="h-[450px] w-[350px] sm:h-[430px] sm:w-[400px] rounded-full bg-white flex justify-center items-center mt-10 lg:mt-0"
       >
         <motion.div whileHover={{ y: -14 }}>
           <img
