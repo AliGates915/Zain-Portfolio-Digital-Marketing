@@ -31,11 +31,36 @@ const textVariant = () => {
 const projects = [
     {
         name: "Data Analysis",
-        description: "Unlock the power of your data with our expert analysis services. From data cleaning and structuring to visualization and detailed reporting, we turn raw information into meaningful insights. Our recommendations empower you to make smart, data-driven decisions that fuel business growth.",
+        description: "From data cleaning and structuring to visualization and detailed reporting, we turn raw information into meaningful insights. Our recommendations you to make smart, data-driven decisions that fuel business growth.",
         tags: [{ name: "DataCleaning", color: "text-blue-400" }, { name: "DataVisualization", color: "text-green-500" }, { name: "Insights", color: "text-[#34e8eb]" }],
         image: "/assests/data.png",
         source_code_link: "https://github.com/your-repo-1"
     },
+    {
+        name: "Travel Website",
+        description: "A modern travel booking platform built by Ali Sohail (Ali Gates). It offers seamless destination browsing, package details, and booking features with a clean UI and smooth user experience.",
+        tags: [
+            { name: "MERN", color: "text-yellow-500" },
+            { name: "ReactJS", color: "text-[#ed74d3]" },
+            { name: "TailwindCSS", color: "text-[#dee352]" },
+            { name: "UIUX", color: "text-green-500" }
+        ],
+        image: "/assests/travel.png",
+        source_code_link: "https://github.com/your-repo-2"
+    },
+    {
+        name: "Perfume Store",
+        description: "An elegant e-commerce perfume shop crafted by Ali Sohail (Ali Gates). Features include product catalog, responsive UI, and a smooth shopping cart experience to enhance online sales.",
+        tags: [
+            { name: "Ecommerce", color: "text-yellow-500" },
+            { name: "NextJS", color: "text-[#ed74d3]" },
+            { name: "TailwindCSS", color: "text-[#dee352]" },
+            { name: "FullStack", color: "text-green-500" }
+        ],
+        image: "/assests/perfume.png",
+        source_code_link: "https://github.com/your-repo-2"
+    },
+
     {
         name: "E-Commerce Store",
         description: "Take your online store to the next level with our end-to-end e-commerce services. We handle everything from store setup and product design to engaging ad animations and complete shop management. New brand or scaling an existing business, we create smooth and profitable shopping experiences.",
