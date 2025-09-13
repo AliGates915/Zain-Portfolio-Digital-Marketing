@@ -38,7 +38,7 @@ const projects = [
     },
     {
         name: "Travel Website",
-        description: "A modern travel booking platform built by Ali Sohail (Ali Gates). It offers seamless destination browsing, package details, and booking features with a clean UI and smooth user experience.",
+        description: "A modern travel booking platform built by Stratex. It offers seamless destination browsing, package details, and booking features with a clean UI and smooth user experience.",
         tags: [
             { name: "MERN", color: "text-yellow-500" },
             { name: "ReactJS", color: "text-[#ed74d3]" },
@@ -50,7 +50,7 @@ const projects = [
     },
     {
         name: "Perfume Store",
-        description: "An elegant e-commerce perfume shop crafted by Ali Sohail (Ali Gates). Features include product catalog, responsive UI, and a smooth shopping cart experience to enhance online sales.",
+        description: "An elegant e-commerce perfume shop crafted by Stratex. Features include product catalog, responsive UI, and a smooth shopping cart experience to enhance online sales.",
         tags: [
             { name: "Ecommerce", color: "text-yellow-500" },
             { name: "NextJS", color: "text-[#ed74d3]" },
